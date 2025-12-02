@@ -106,6 +106,10 @@ Fully responsive & mobile-friendly
 
 Intuitive navigation
 
+## 📸 Screenshots
+
+<img width="1464" height="949" alt="startbucks-img" src="https://github.com/user-attachments/assets/d9afee5c-6e1d-448f-80d0-1320a2be92e3" />
+
 ## 🚀 How to Run
 
 Download all project files
