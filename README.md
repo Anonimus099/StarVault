@@ -45,20 +45,22 @@ Admin Panel
 ✅ Display registration timestamps
 
 ## 📁 Project Structure
+```
 starbucks/
-#### ├── index.html          ### Home page
-#### ├── signin.html         ### Login page
-#### ├── join.html           ### Registration page
-#### ├── profile.html        ### User profile page
-#### ├── admin.html          ### Admin panel
-#### ├── starbucks.js        ### Main JS file
-#### ├── signin.js           ### Login logic
-#### ├── join.js             ### Registration logic
-#### ├── style/
-#### │   ├── starbucks.css   ### Main styles
-#### │   ├── signin.css      ### Login/registration styles
-#### │   └── join.css        ### Registration page styles
-#### └── img/                ### Images & icons
+ ├── index.html          # Entry point
+ ├── signin.html         # Login page
+ ├── join.html           # Registration page
+ ├── profile.html        # User profile page
+ ├── admin.html          # Admin panel
+ ├── starbucks.js        # Main JS file
+ ├── signin.js           # Login logic
+ ├── join.js             # Registration logic
+ ├── style/
+ │   ├── starbucks.css   # Main styles
+ │   ├── signin.css      # Login/registration styles
+ │   └── join.css        # Registration page styles
+ └── img/                # Graphic resources and logos
+```
 
 ## 🛠️ Technologies Used
 
